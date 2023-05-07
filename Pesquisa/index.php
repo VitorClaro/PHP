@@ -7,6 +7,9 @@
     <title>Pesquisa</title>
 </head>
 <body>
-    
+    <div class="container">
+        <h1>Pesquisa</h1>
+        <form action="" method="post"></form>
+    </div>
 </body>
 </html>
